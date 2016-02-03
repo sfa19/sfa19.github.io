@@ -3,8 +3,11 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+So HI! I'm learning to program and it is really cool. I also met some 
+awesome people at this thing and I'm pretty excited about that. Python was 
+kind of confusing but I am hoping I can automate my analysis process for my 
+project and I'm totally going to program in public to blow people's minds.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Woohoo!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+S
